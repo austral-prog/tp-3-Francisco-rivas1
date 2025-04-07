@@ -21,7 +21,6 @@ def check_vowels():
         print("Contiene u: True")
     else:
         print("Contiene u: False")
-check_vowels()
     # Código a implementar utilizando input.
 
 
