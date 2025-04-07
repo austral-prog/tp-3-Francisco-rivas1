@@ -1,6 +1,4 @@
 def check_vowels():
-    nombre = input()
-    name=nombre.lower
     if "a" in name:
         print("Contiene a: True")
     else:
@@ -21,7 +19,8 @@ def check_vowels():
         print("Contiene u: True")
     else:
         print("Contiene u: False")
-
+nombre = input()
+name=nombre.lower
 check_vowels()
     # Código a implementar utilizando input.
 
