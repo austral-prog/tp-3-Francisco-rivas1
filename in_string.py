@@ -20,9 +20,11 @@ def check_vowels():
     else:
         print(False)
 
-nombre=input("Inserta tu nombre: ")
-name=nombre.lower()
+name="Matias"
 check_vowels()
+nombre="Augusto"
+name=nombre.lower()
+check_vowels
     # Código a implementar utilizando input.
 
 
