@@ -2,23 +2,23 @@ def check_vowels():
     if "a" in name:
         print("Contiene a: True")
     else:
-        print(False)
+        print("Contiene a: False")
     if "e" in name:
         print("Contiene e: True")
     else:
-        print(False)
+        print("Contiene e: False")
     if "i" in name:
         print("Contiene i: True")
     else:
-        print(False)
+        print("Contiene i: False")
     if "o" in name:
         print("Contiene o: True")
     else:
-        print(False)
+        print("Contiene o: False")
     if "u" in name:
         print("Contiene u: True")
     else:
-        print(False)
+        print("Contiene u: False")
 
 name="Matias"
 check_vowels()
